@@ -7,7 +7,7 @@ A hardware-based digital clock built entirely on breadboards using a 555 timer, 
 
 ---
 
-## 🛠️ Hardware Bill of Materials (BOM)
+## Hardware Bill of Materials (BOM)
 
 The physical breadboard implementation was constructed using the following components:
 
@@ -21,7 +21,7 @@ The physical breadboard implementation was constructed using the following compo
 
 ---
 
-## 📸 Project Media & Hardware Demonstration
+## Project Media & Hardware Demonstration
 
 *Note: While the original Proteus schematics and written lab report are no longer available, the complete physical implementation, breadboard routing, and troubleshooting steps are fully documented in the media below.*
 
