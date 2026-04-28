@@ -4,7 +4,7 @@ A hardware-based digital clock built entirely on breadboards using a 555 timer, 
 
 **Author:** Muhammad Shayan Shahbaz  
 **Simulation Software:** Proteus  
-
+## Please download vidoes to view Thank you!
 ---
 
 ## Hardware Bill of Materials (BOM)
